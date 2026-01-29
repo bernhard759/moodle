@@ -4,3 +4,13 @@ lib/dml/oci_native_moodle_package.sql text eol=lf
 **.js.map -diff
 **-min.js -diff
 **.min.js -diff
+
+*.js text eol=lf 
+*.svg   -text
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.ico   binary
+*.csv   -text
